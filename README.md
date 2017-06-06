@@ -16,3 +16,5 @@ update /oath.js
 ```bash
 $ node app.js
 ```
+
+REFERENCE: http://mherman.org/blog/2013/11/10/social-authentication-with-passport-dot-js/#.WTZeL2iGP4a
